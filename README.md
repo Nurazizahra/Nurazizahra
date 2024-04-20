@@ -2,7 +2,7 @@
 
 Perkenalkan nama saya **Nur Azizah Rabiulakhhir**.<br>
 
-Saya seorang **mahasiswa yang sedang mengikuti program Studi Inpenden** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **mahasiswa yang sedang mengikuti program Studi Independen** di [Dicoding](https://www.dicoding.com/).<br>
 
 ### Github Statistic
 <p align="left">
