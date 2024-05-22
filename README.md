@@ -2,7 +2,10 @@
 
 Perkenalkan nama saya **Nur Azizah Rabiulakhhir**.<br>
 
-Saya seorang **mahasiswa yang sedang mengikuti program Studi Independen** di [Dicoding](https://www.dicoding.com/).<br>
+Saya seorang **mahasiswa yang sedang mengikuti program Studi Independen dengan learning path Pengembang Front-End Web Dan Back-End ** di [Dicoding](https://www.dicoding.com/).<br>
+- ???? How to reach me on 
+<a href="https://www.instagram.com/onezizahra/" target="_blank">Instagram</a>, and
+<a href="https://www.linkedin.com/in/nurazizahrabiulakhhir/" target="_blank">LinkedIn</a>,
 
 ### Github Statistic
 <p align="left">
