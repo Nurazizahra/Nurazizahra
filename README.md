@@ -30,4 +30,6 @@ Perkenalkan nama saya **Nur Azizah Rabiulakhhir** 👩‍💻.<br>
 </a>
 </p>
 
+---
+
 Terima kasih telah mengunjungi profil saya! 😊
